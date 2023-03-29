@@ -1,8 +1,0 @@
-CFLAGS="-march=znver2 -O2 -pipe"
-CXXFLAGS="${CFLAGS}"
-
-CC="gcc"
-CXX="g++"
-AR="gcc-ar"
-NM="gcc-nm"
-RANLIB="gcc-ranlib"
