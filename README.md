@@ -1,3 +1,4 @@
+## Setup
 * **Window Manager** • [Hyprland ](https://github.com/hyprwm/Hyprland) 💮
 * **Shell** • [Zsh ](https://www.zsh.org) & [starship](https://github.com/starship/starship) 🌠 
 * **Terminal** • [Kitty ](https://sw.kovidgoyal.net/kitty/) 😽 
@@ -6,8 +7,8 @@
 * **Launcher** • [Rofi ](https://github.com/davatorium/rofi) 🎑 
 * **IDE** • [Nyoom ](https://github.com/nyoom-engineering/nyoom.nvim) ✨
 
-## 💮 Setup
 
-<img src="https://i.imgur.com/Qk79IFB.jpg">
+
+
 
 
