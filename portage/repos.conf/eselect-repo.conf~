@@ -1,0 +1,38 @@
+# created by eselect-repo
+
+
+[gentoo]
+location = /var/db/repos/gentoo
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/gentoo.git
+
+[amano-kenji]
+location = /var/db/repos/amano-kenji
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/amano-kenji.git
+
+[wayland-desktop]
+location = /var/db/repos/wayland-desktop
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/wayland-desktop.git
+
+
+[mva]
+location = /var/db/repos/mva
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/mva.git
+
+[zugaina]
+location = /var/db/repos/zugaina
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/zugaina.git
+
+[guru]
+location = /var/db/repos/guru
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/guru.git
+
+[flexibeast-s6]
+location = /var/db/repos/flexibeast-s6
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/flexibeast-s6.git

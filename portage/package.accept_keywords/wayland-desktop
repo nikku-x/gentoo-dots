@@ -1,0 +1,3 @@
+*/*::wayland-desktop ~amd64
+# required by xdg-desktop-portal-hyprland (argument)
+=gui-libs/xdg-desktop-portal-hyprland-9999 **

@@ -1,0 +1,2 @@
+#sys-devel/clang debug extra xml
+#sys-devel/clang-common default-compiler-rt default-lld llvm-libunwind

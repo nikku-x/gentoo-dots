@@ -1,0 +1,13 @@
+>=sys-libs/zlib-1.2.13-r1 minizip
+# required by www-client/chromium-111.0.5563.64::gentoo
+# required by chromium (argument)
+>=net-libs/nodejs-18.15.0 inspector
+# required by www-client/icecat-102.9.0::src_prepare-overlay[system-libvpx]
+# required by icecat (argument)
+>=media-libs/libvpx-1.12.0-r1 postproc
+# required by www-client/icecat-102.9.0::src_prepare-overlay[system-png]
+# required by icecat (argument)
+>=media-libs/libpng-1.6.39 apng
+# required by www-client/icecat-102.9.0::src_prepare-overlay[pgo]
+# required by icecat (argument)
+>=x11-base/xorg-server-21.1.7 xvfb

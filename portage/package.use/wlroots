@@ -1,0 +1,35 @@
+gui-libs/wlroots X x11-backend
+# required by sys-apps/man-pages-6.03::gentoo[l10n_nl]
+# required by @system
+# required by @world (argument)
+>=app-i18n/man-pages-l10n-4.17.0 l10n_cs l10n_da l10n_de l10n_el l10n_es l10n_fi l10n_fr l10n_hu l10n_id l10n_it l10n_mk l10n_nb l10n_nl l10n_pl l10n_pt-BR l10n_ro l10n_sr l10n_sv l10n_uk l10n_vi
+x11-misc/xdg-utils gnome
+app-crypt/pinentry gnome-keyring
+
+
+x11-libs/gtk+ colord sysprof
+sys-auth/pambase gnome-keyring
+media-video/ffmpegthumbnailer gnome
+xfce-base/tumbler gstreamer
+=apps/waybar-9999 experimental
+# required by xfce-base/xfce4-panel-4.19.0::gentoo[dbusmenu]
+# required by xfce-base/thunar-4.18.4::gentoo[trash-panel-plugin]
+# required by thunar (argument)
+>=dev-libs/libdbusmenu-16.04.0-r2 gtk3
+# required by dev-python/matplotlib-3.7.1::gentoo[-test]
+# required by matplotlib (argument)
+>=dev-python/pillow-9.4.0 webp
+# required by dev-python/wxpython-4.2.0::gentoo
+# required by dev-python/matplotlib-3.7.1::gentoo[python_targets_python3_10,wxwidgets,-test,-python_targets_python3_9]
+# required by matplotlib (argument)
+>=x11-libs/wxGTK-3.2.2.1 gstreamer
+# required by x11-libs/wxGTK-3.2.2.1::gentoo
+# required by dev-python/wxpython-4.2.0::gentoo
+# required by dev-python/matplotlib-3.7.1::gentoo[python_targets_python3_10,wxwidgets,-test,-python_targets_python3_9]
+# required by matplotlib (argument)
+>=dev-libs/libpcre2-10.42-r1 pcre32
+# required by dev-python/PyQt5-5.15.9::gentoo[multimedia]
+# required by dev-python/matplotlib-3.7.1::gentoo[-test,qt5]
+# required by matplotlib (argument)
+>=dev-qt/qtmultimedia-5.15.8 widgets
+

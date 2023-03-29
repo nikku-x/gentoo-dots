@@ -1,0 +1,55 @@
+# required by dev-qt/qtdeclarative-6.4.2::gentoo
+# required by dev-qt/qtwayland-6.4.2::gentoo
+# required by gui-libs/xdg-desktop-portal-hyprland-9999::wayland-desktop
+# required by =gui-libs/xdg-desktop-portal-hyprland-9999 (argument)
+# /var/db/repos/gentoo/profiles/package.mask:
+# Jimi Huotari <chiitoo@gentoo.org> (2022-08-02)
+# Masked for testing. The split of some packages may still
+# change. bug #838970.
+=dev-qt/qtbase-6.4.2
+# required by dev-qt/qtdeclarative-6.4.2::gentoo
+# required by dev-qt/qtwayland-6.4.2::gentoo
+# required by gui-libs/xdg-desktop-portal-hyprland-9999::wayland-desktop
+# required by =gui-libs/xdg-desktop-portal-hyprland-9999 (argument)
+# /var/db/repos/gentoo/profiles/package.mask:
+# Jimi Huotari <chiitoo@gentoo.org> (2022-08-02)
+# Masked for testing. The split of some packages may still
+# change. bug #838970.
+=dev-qt/qtshadertools-6.4.2
+# required by dev-qt/qtwayland-6.4.2::gentoo
+# required by gui-libs/xdg-desktop-portal-hyprland-9999::wayland-desktop
+# required by =gui-libs/xdg-desktop-portal-hyprland-9999 (argument)
+# /var/db/repos/gentoo/profiles/package.mask:
+# Jimi Huotari <chiitoo@gentoo.org> (2022-08-02)
+# Masked for testing. The split of some packages may still
+# change. bug #838970.
+=dev-qt/qtdeclarative-6.4.2
+# required by gui-libs/xdg-desktop-portal-hyprland-9999::wayland-desktop
+# required by =gui-libs/xdg-desktop-portal-hyprland-9999 (argument)
+# /var/db/repos/gentoo/profiles/package.mask:
+# Jimi Huotari <chiitoo@gentoo.org> (2022-08-02)
+# Masked for testing. The split of some packages may still
+# change. bug #838970.
+=dev-qt/qtwayland-6.4.2
+# required by www-client/ladybird-9999::sam_c
+# required by www-client/ladybird (argument)
+# /var/db/repos/gentoo/profiles/package.mask:
+# Jimi Huotari <chiitoo@gentoo.org> (2022-08-02)
+# Masked for testing. The split of some packages may still
+# change. bug #838970.
+=dev-qt/qttools-6.4.3
+# required by dev-qt/qttools-6.4.3::gentoo
+# required by www-client/ladybird-9999::sam_c
+# required by www-client/ladybird (argument)
+# /var/db/repos/gentoo/profiles/package.mask:
+# Jimi Huotari <chiitoo@gentoo.org> (2022-08-02)
+# Masked for testing. The split of some packages may still
+# change. bug #838970.
+=dev-qt/qtbase-6.4.3
+# required by www-client/ladybird-9999::sam_c
+# required by www-client/ladybird (argument)
+# /var/db/repos/gentoo/profiles/package.mask:
+# Jimi Huotari <chiitoo@gentoo.org> (2022-08-02)
+# Masked for testing. The split of some packages may still
+# change. bug #838970.
+=dev-qt/qttools-6.4.2

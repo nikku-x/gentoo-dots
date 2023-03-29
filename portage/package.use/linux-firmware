@@ -1,0 +1,4 @@
+sys-kernel/linux-firmware compress-xz
+# required by sys-boot/os-prober-1.81-r1::gentoo
+# required by os-prober (argument)
+>=sys-boot/grub-2.06-r6 mount

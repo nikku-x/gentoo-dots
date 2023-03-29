@@ -1,0 +1,2 @@
+media-video/pipewire echo-cancel extra ffmpeg gstreamer readline jack-client sound-server
+media-sound/pulseaudio -daemon

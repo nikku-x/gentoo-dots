@@ -1,0 +1,13 @@
+#=gui-apps/wf-recorder-9999 **
+# required by =gui-apps/waybar-9999 (argument)
+#=gui-apps/waybar-9999 **
+# required by app-arch/libarchive-3.6.2-r1::gentoo
+# required by kde-frameworks/extra-cmake-modules-5.104.0::gentoo
+# required by kde-misc/kio-fuse-5.0.1_p20220906::gentoo
+# required by kde-plasma/xdg-desktop-portal-kde-5.27.3::gentoo
+# required by kde-plasma/xdg-desktop-portal-kde (argument)
+#=dev-libs/openssl-3.1.0 **
+# required by =media-libs/openvr-9999 (argument)
+#=media-libs/openvr-9999 **
+# required by www-client/ladybird (argument)
+#=www-client/ladybird-9999 **
