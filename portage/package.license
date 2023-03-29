@@ -1,5 +1,1 @@
 sys-kernel/linux-firmware @BINARY-REDISTRIBUTABLE
-# required by openvr (argument)
-=media-libs/openvr-1.14.15 OpenVR
-# required by =media-libs/openvr-9999 (argument)
->=media-libs/openvr-9999 OpenVR
