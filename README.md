@@ -6,9 +6,4 @@
 * **Notify Daemon** • [Dunst ](https://packages.gentoo.org/packages/x11-misc/dunst) 
 * **Launcher** • [Rofi ](https://github.com/davatorium/rofi) 
 * **IDE** • [Nyoom ](https://github.com/nyoom-engineering/nyoom.nvim)
-
-
-
-
-
-
+* **www-client** • [Icecat ](https://git.savannah.gnu.org/cgit/gnuzilla.git)
