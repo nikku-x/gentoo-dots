@@ -8,4 +8,6 @@
 
 ## 💮 Setup
 
-<img src="https://imgur.com/a/IHmFl3w">
+<img src="https://i.imgur.com/Qk79IFB.jpg">
+
+
