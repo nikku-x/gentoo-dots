@@ -7,3 +7,4 @@
 * **Launcher** • [Rofi ](https://github.com/davatorium/rofi) 
 * **IDE** • [Nyoom ](https://github.com/nyoom-engineering/nyoom.nvim)
 * **www-client** • [Icecat ](https://git.savannah.gnu.org/cgit/gnuzilla.git)
+* **Font**   [Cascadia Code Nerd Font Mono ](https://github.com/ryanoasis/nerd-fonts/releases)
