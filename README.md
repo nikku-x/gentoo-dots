@@ -8,3 +8,4 @@
 * **IDE** • [Nyoom ](https://github.com/nyoom-engineering/nyoom.nvim)
 * **www-client** • [Icecat ](https://git.savannah.gnu.org/cgit/gnuzilla.git)
 * **Font** • [Cascadia Code Nerd Font Mono ](https://github.com/ryanoasis/nerd-fonts/releases)
+* **Icons** • [Nordzy ](https://gpo.zugaina.org/x11-themes/nordzy-icon/USE)
