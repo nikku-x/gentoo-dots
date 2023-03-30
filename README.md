@@ -1,4 +1,5 @@
 ## Setup
+* **Init System** • [OpenRC ](https://gpo.zugaina.org/sys-apps/openrc)
 * **Window Manager** • [Hyprland ](https://gpo.zugaina.org/gui-wm/hyprland) 
 * **Shell** • [Zsh ](https://www.zsh.org) & [starship](https://github.com/starship/starship) 
 * **Terminal** • [Kitty ](https://sw.kovidgoyal.net/kitty/) 
