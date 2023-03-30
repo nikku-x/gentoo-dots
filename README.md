@@ -1,5 +1,5 @@
 ## Setup
-* **Window Manager** • [Hyprland ](https://github.com/hyprwm/Hyprland) 
+* **Window Manager** • [Hyprland ](https://gpo.zugaina.org/gui-wm/hyprland) 
 * **Shell** • [Zsh ](https://www.zsh.org) & [starship](https://github.com/starship/starship) 
 * **Terminal** • [Kitty ](https://sw.kovidgoyal.net/kitty/) 
 * **Panel** • [Waybar ](https://packages.gentoo.org/packages/gui-apps/waybar) 
